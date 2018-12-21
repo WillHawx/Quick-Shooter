@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  drawing.cpp
+f:\mine\work\iti\programming course\quick shooter\drawing\drawing.cpp(791): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  UIElement.cpp
+f:\mine\work\iti\programming course\quick shooter\drawing\uielement.cpp(136): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  UIManager.cpp
+f:\mine\work\iti\programming course\quick shooter\drawing\uimanager.cpp(67): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
