@@ -16,7 +16,7 @@ There are 3 types of power ups each with a different color, like the enemies you
 - Blue power up: yields a large score bonus.
 
 <p align = "center">
-    <img width="500" height="200" src="guide.png"></p>
+    <img width="500" height="500" src="guide.png"></p>
 
 
 
